@@ -140,4 +140,5 @@ Gemini: Provides accurate and precise responses for straightforward and simple t
 
 ### Depth:
 ChatGPT: Delivers deeper insights, especially in well-structured or refined prompts that allow it to explore topics thoroughly. Gemini: Often gives more streamlined and brief answers but provides good clarity in response to broad, unstructured prompts.
-# RESULT: The prompt for the above said problem executed successfully
+# RESULT: 
+The prompt for the above said problem executed successfully
